@@ -1,0 +1,21 @@
+h1 {
+  color: #f00;
+}
+
+body {
+  background-color: #e48632;
+}
+
+.someDiv {
+  width: 100px;
+  height: 100px;
+  background-color: #008000;
+}
+
+.first {
+  margin-top: 110px;
+}
+
+.grunt_logo {
+  width: 30%;
+}
