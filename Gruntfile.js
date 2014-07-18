@@ -1,4 +1,4 @@
-//TODO: Add CSS Minifcation
+//TODO: Add CSS Minification
 
 
 module.exports = function(grunt) {
